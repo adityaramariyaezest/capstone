@@ -1,0 +1,24 @@
+{
+  "name": "capstone",
+  "homepage": "https://adityaramariyaezest.github.io/capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaramariyaezest/capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityaramariyaezest/capstone/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
